@@ -1,0 +1,33 @@
+.h1-title {
+  text-align: center;
+}
+.hr-width {
+  width: 43.75rem;
+}
+.input-margin {
+  width: 31.25rem;
+  margin-left: 32.5rem;
+  margin-right: 0.625rem;
+}
+.li-margin {
+  margin-left: 31.25rem;
+}
+.ul-list-style {
+  list-style: none;
+}
+.span-style {
+  margin-left: 1.25rem;
+  width: 30%;
+  display:inline-block;
+  vertical-align:top;
+}
+.i-style{
+  margin-left: 12.5rem;
+  color: red;
+}
+.hr-margin-right{
+  margin-right: 31.25rem;
+}
+.text-underline-disbaled {
+  text-decoration: line-through;
+}
